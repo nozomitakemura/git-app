@@ -70,7 +70,9 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 
-  # 中略
-gem 'devise'
+
+  gem 'pry-rails'
+  gem 'devise'
+
 
 end
